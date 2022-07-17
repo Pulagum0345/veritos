@@ -1,0 +1,20 @@
+stage 1 =>  Developer (Develop branch)  =>unit     ==>DEV SERVERS (DEV lAPTOP)
+    
+
+   raise  pull request (Develop branch -> Testing branch)  PR number 
+
+   PR Approve(DEV Manager) -> Merge
+
+stage 2 =>Testers (Testing Branch)  =>Regression testing   => UAT SERVERS(test laptop)
+
+
+   Raise pull request (Testing branch ->Release Branch) PR Number
+   PR Approve(QA Manager)
+
+stage 3 => Release branch prod servers deploy
+
+
+
+
+
+
