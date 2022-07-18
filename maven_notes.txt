@@ -1,0 +1,11 @@
+
+MAVEN STAGE(LIFE CYCLE)
+
+
+CHECKING POM.XML
+DEPENDCIES SOFTWARES DOWNLOADS
+CLEAN  =>removes the TARGET folder
+COMPILE => mvn compile
+INSTALL =>mvn install (compile+install) build file  create (zip)
+TEST =>mvn test(test scripts execution)
+PACKAGE =>one folder
